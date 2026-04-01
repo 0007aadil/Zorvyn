@@ -4,7 +4,7 @@ A clean, interactive, and highly responsive finance tracking dashboard built to 
 
 This application demonstrates a modular approach to React component design, an robust custom-built design system, and global state management using React's built-in tooling without relying on heavy external libraries.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v18 or higher recommended)
@@ -23,7 +23,7 @@ This application demonstrates a modular approach to React component design, an r
 
 ---
 
-## 🎨 Overview of Approach
+##  Overview of Approach
 
 My primary goal was to achieve a dynamic, visually stunning "glassmorphic" interface while keeping the foundation lightweight. 
 - **Tech Stack:** React 18, Vite, TypeScript.
@@ -33,7 +33,7 @@ My primary goal was to achieve a dynamic, visually stunning "glassmorphic" inter
 
 ---
 
-## ✨ Features & Requirements Met
+##  Features & Requirements Met
 
 ### 1. Dashboard Overview
 - **Summary Cards:** Dynamically calculates Total Balance, Total Income, and Total Expenses based on the active ledger.
@@ -57,7 +57,7 @@ My primary goal was to achieve a dynamic, visually stunning "glassmorphic" inter
 
 ---
 
-## 🌟 Optional Enhancements Included
+##  Optional Enhancements Included
 
 To push the interface further, I implemented several advanced touches:
 - **Deep Dark Mode Toggle:** A complex theme system toggles between a bright mesh gradient and a deep, luxurious dark layout instantly.
