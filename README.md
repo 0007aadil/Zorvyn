@@ -1,4 +1,4 @@
-# Zorvyn Finance Dashboard
+# LedgerFlow Finance Dashboard
 
 A clean, interactive, and highly responsive finance tracking dashboard built to fulfill the core frontend evaluation requirements. 
 
@@ -45,7 +45,7 @@ My primary goal was to achieve a dynamic, visually stunning "glassmorphic" inter
 
 ### 3. Role-Based Access Control (Simulated)
 - **Role Toggle:** Users can switch roles dynamically within the `Settings` panel.
-- **Admin (`Zorvyn Admin`):** Has explicit system access to utilize the "New Entry" modal to add mock data, and can delete rows from the interactive table.
+- **Admin (`LedgerFlow Admin`):** Has explicit system access to utilize the "New Entry" modal to add mock data, and can delete rows from the interactive table.
 - **Viewer (`Aadil`):** Enjoys read-only access. Write/Delete functionality is cleanly removed from the UI.
 
 ### 4. Semantic Insights

@@ -17,7 +17,7 @@ const Sidebar = () => {
     <aside className="sidebar">
       <div style={{ marginBottom: '3rem', padding: '0 0.5rem' }}>
         <h1 style={{ fontSize: '1.75rem', fontWeight: 800, margin: 0, letterSpacing: '-0.5px' }}>
-          <span className="text-gradient">ZOR</span>VYN
+          <span className="text-gradient">LEDGER</span>FLOW
         </h1>
         <p className="text-muted" style={{ fontSize: '0.75rem', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '1px' }}>Finance Studio</p>
       </div>
@@ -66,10 +66,10 @@ const Sidebar = () => {
           display: 'flex', alignItems: 'center', justifyContent: 'center',
           color: 'white', fontWeight: 'bold'
         }}>
-          {state.role === 'admin' ? 'Z' : 'A'}
+          {state.role === 'admin' ? 'L' : 'A'}
         </div>
         <div style={{ flex: 1 }}>
-          <p style={{ margin: 0, fontSize: '0.875rem', fontWeight: 600 }}>{state.role === 'admin' ? 'Zorvyn' : 'Aadil'}</p>
+          <p style={{ margin: 0, fontSize: '0.875rem', fontWeight: 600 }}>{state.role === 'admin' ? 'LedgerFlow' : 'Aadil'}</p>
           <p style={{ margin: 0, fontSize: '0.75rem', color: 'var(--text-muted)', textTransform: 'capitalize' }}>{state.role}</p>
         </div>
       </div>
